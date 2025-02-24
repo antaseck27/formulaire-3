@@ -1,0 +1,152 @@
+body{
+    background-color: black ;
+    overflow: hidden;
+    
+}
+.titre{
+    color: white;
+    text-align: center;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    
+}
+.cont{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.cont form{
+    background-color: black;
+    width: 40%;
+    height: 100%;
+}
+.form-text{
+    width: 60%;
+    border: none;
+    background-color:  rgb(26, 15, 2);
+    border-bottom: 1px solid white;
+    color: white;
+    margin-left: 20%;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;    
+    justify-content: center;
+}
+input::placeholder{
+    color: white;
+}
+.form-text1{
+    width: 60%;
+    border: none;
+    border-bottom: 1px solid rgba(130, 93, 46, 0.821);
+    background-color: rgb(26, 15, 2);
+    color: white;
+    padding: 0px;
+    margin-left: 20%;
+    margin-top: 2%;
+}
+
+ .cont .image img{
+     width: 60vw;
+    height: 95vh; 
+} 
+ h4{
+    color: white;
+    margin-left: 20%;
+    margin-top: 20%;
+
+}
+.bas{
+    color: white;
+    padding: 0px;
+   position: relative;
+   margin-bottom: 5px;
+   
+   
+}
+.name{
+    color: rgba(130, 93, 46, 0.821);
+    
+}
+.bas{
+    display: flex;
+    justify-content: space-around; 
+    width: 70%;
+    padding-bottom: 0PX;
+    margin-top: 0px;
+    margin-left: 18%;
+    display: flex;
+    align-items: center;
+    
+    
+}
+.deux, .six, .huit, .dix{
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    background-color: white;
+    color: rgb(26, 15, 2);
+    font-size: large;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.groupe{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   background-color: rgba(130, 93, 46, 0.821);
+   width: 80px;
+   height: 36px;
+   border-radius: 8px;
+   padding: 3px;
+   
+   
+    }
+    span{
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    background-color: black;
+    font-size: large;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-right: 5px;
+    }
+    .book{
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+    .booking{
+        color: rgba(130, 93, 46, 0.821);
+        text-decoration: none;
+        font-size: x-large;
+        text-align: center;
+        margin-top: 20px;
+        padding: 20px;
+    }
+button{
+    width: 100px;
+    height: 50PX;
+    color: white;
+    background-color: rgba(130, 93, 46, 0.821);
+    border: none;
+    margin-left: 20%;
+    margin-top: 50px;
+    
+    
+}
