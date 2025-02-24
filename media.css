@@ -35,6 +35,7 @@
     width: 90%;
     margin: auto;
      margin-left: 18px;
+     background-color: black;
    }
   
     .name{
@@ -49,7 +50,7 @@
     
     }
     .bas{
-        gap: 15px;
+        gap: 10px;
     }
     .bas1{
        margin-left: 10px;
