@@ -45,8 +45,20 @@
         color: white;
         margin-left: 15%;
         margin-top: 20%;
-        padding: 20px;
+        padding: 20px; 
     
+    }
+    .bas{
+        gap: 15px;
+    }
+    .bas1{
+       margin-left: 10px;
+    }
+    button{
+        margin-left: 0;
+        margin: auto;
+        margin-top: 20px;
+        
     }
 
     
