@@ -49,8 +49,8 @@
         padding: 20px; 
     
     }
-    .bas{
-        gap: 10px;
+    .deux, .six, .huit, .dix{
+        margin: 7px;
     }
     .bas1{
        margin-left: 10px;
